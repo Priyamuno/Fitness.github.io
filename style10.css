@@ -17,5 +17,12 @@ body{
 	margin: 30px;	
 }
 #h1{
+	font-family: fantasy;
+	font-size: 3em;
+	border: 5px solid pink;
+	width: 400px;
+	text-align: center;
+	box-shadow: 10px 10px 20px;
+	text-shadow: 10px 10px 30px black;
 	
 }
